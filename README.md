@@ -1,5 +1,6 @@
-### Hi there 👋
-
+<div id="header" align="center">
+  <img src="https://giphy.com/gifs/jojo-jjba-torture-dance-TI9HiyUqRm75jPyKQ5" width="100"/>
+</div>
 <!--
 **RomanBrix/RomanBrix** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
