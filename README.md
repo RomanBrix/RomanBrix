@@ -1,6 +1,6 @@
-<div id="header" align="center">
-  <img src="https://media.giphy.com/media/TI9HiyUqRm75jPyKQ5/giphy.gif" width="100" height="100"/>
-</div>
+
+  <img src="https://media.giphy.com/media/TI9HiyUqRm75jPyKQ5/giphy-downsized.gif" width="100" height="100"/>
+  
 <!--
 **RomanBrix/RomanBrix** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
